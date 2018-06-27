@@ -1,0 +1,26 @@
+{
+  "name": "bigone-js",
+  "version": "1.0.0",
+  "description": "the sdk of bigone.one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "jsonwebtoken": "^8.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zejie/bigone-js.git"
+  },
+  "keywords": [
+    "bigone"
+  ],
+  "author": "zejie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zejie/bigone-js/issues"
+  },
+  "homepage": "https://github.com/zejie/bigone-js#readme"
+}

@@ -1,10 +1,3 @@
-# document
-https://open.big.one/docs/api.html
-
-# install
-npm install bigone-js
-
-# example
 const API = require('./index.js')
 
 API.init({
@@ -27,7 +20,7 @@ API.init({
 //   console.log(data)
 // })
 
-// API.cancelOrder('63818300').then(data => {
+// API.cancelOrder('63894594').then(data => {
 //   console.log(data)
 // })
 
