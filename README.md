@@ -5,6 +5,7 @@ https://open.big.one/docs/api.html
 npm install bigone-js
 
 # example
+```
 const API = require('./index.js')
 
 API.init({
@@ -45,3 +46,4 @@ API.init({
 // API.getOrderByid('100').then(data => {
 //   console.log(data)
 // })
+```
